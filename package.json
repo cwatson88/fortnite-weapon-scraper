@@ -1,0 +1,10 @@
+{
+  "name": "fortnite-weapons",
+  "version": "1.0.0",
+  "description": "scrape weapons list",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
+}
